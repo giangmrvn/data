@@ -1,6 +1,6 @@
-    {"chart": [
+    {"result": [
       {
-        "field": "09/30/2022",
+        "date": "09/30/2022",
         "value": 1,
         "agency": "hcm"
       },
