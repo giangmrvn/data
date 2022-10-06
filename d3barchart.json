@@ -1,0 +1,38 @@
+    {"chart": [
+      {
+        "field": "09/30/2022",
+        "value": 1,
+        "agency": "hcm"
+      },
+      {
+        "field": "10/02/2022",
+        "value": 3,
+        "agency": "hcm"
+      },
+      {
+        "field": "10/02/2022",
+        "value": 1,
+        "agency": "heb"
+      },
+      {
+        "field": "10/03/2022",
+        "value": 4,
+        "agency": "hcm"
+      },
+      {
+        "field": "10/05/2022",
+        "value": 2,
+        "agency": "heb"
+      },
+      {
+        "field": "10/05/2022",
+        "value": 1,
+        "agency": "hcm"
+      },
+      {
+        "field": "10/06/2022",
+        "value": 0,
+        "agency": "heb"
+      }
+    ]
+    }
